@@ -1,0 +1,184 @@
+div.container {
+    width: 960px;
+    margin: auto;
+   
+    
+   
+}
+
+div.header {
+    width: 960px;
+    margin: auto;
+
+    
+   
+   
+}
+
+div.footer {
+    border-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: thick;
+    background-color: #666666;
+    padding-top: 20px;
+    padding-bottom:5px;
+    font-size: .5em;
+    color:#ffffff;
+    text-align: center;
+
+    
+}
+
+div.branding {
+    float: left;   
+
+}
+
+#about-image {
+    padding: 10px;
+}
+div.navbar {
+    float: right;
+   
+    
+}
+
+img {
+    float: left;
+}
+
+
+li a:hover:not(.active) {
+    color: #111;
+}
+
+.active {
+    background-color: #111;
+}
+
+.content {
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: thin;
+    background-color: #ffffff;
+    width: 960px;
+    margin: auto;
+    clear: left;
+    padding: 20px;
+
+}
+
+.container2 {
+    padding: 0px;
+    background-color: #ffffff;
+   
+    border-style: solid;
+    border-bottom-color: #cccccc;
+    border-bottom-width: medium;
+    
+   
+    margin: 0 auto;
+     
+
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold; 
+}
+
+
+#logo {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size: 2em;
+    font-weight: bold; 
+    display: block;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom:15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body {
+    color: #777777;
+    background-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a {
+    display: block;
+    color: #777777;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.submit-btn{
+    
+        background-color: #4aaaa5;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+
+.row {
+    float:left;
+    clear:left;
+   
+}
+
+.port-img {
+    padding:10px;
+}
+
+.view-port {
+    padding:50px;
+}

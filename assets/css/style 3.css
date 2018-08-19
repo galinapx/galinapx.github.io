@@ -1,0 +1,36 @@
+
+
+div {
+    display: block;
+    background-color: #4aaaa5;   
+}
+
+p {
+    color: #777777;
+}
+
+h1{
+    
+}
+
+ul{
+    display: inline-block;
+    float: right;
+    list-style: none;
+}
+
+li {
+    float: left;
+    padding: 30px;
+    font-weight: bold;
+}
+
+#nav-bar {
+    float: left;
+    padding: 30px;
+}
+
+#menu {
+    float: right;
+    padding: 30px;
+}
