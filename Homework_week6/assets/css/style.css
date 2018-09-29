@@ -1,0 +1,37 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+    font-family: "Open Sans";
+}
+
+body {
+    font-family: "Open Sans";
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron{
+    text-align: center;
+    font-family: "Pacifico";
+}
+
+.jumbotron #funnygif {
+    padding-top: 20px;
+}
